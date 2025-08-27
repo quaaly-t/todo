@@ -1,5 +1,9 @@
 function TodoFilters() {
-  return <h1>This is the todo filter</h1>
+    return (
+        <div className="flex items-center justify-center">
+            <div className="inline-flex bg-gray-200">{/*  */}</div>
+        </div>
+    )
 }
 
 export default TodoFilters
